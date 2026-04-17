@@ -1,6 +1,6 @@
 # 📚 Semantic Book Recommender System
 
-![Demo](demo.gif)
+![Demo](demo.png)
 
 ---
 
