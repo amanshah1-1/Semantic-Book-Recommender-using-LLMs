@@ -1,12 +1,12 @@
 # 📚 Semantic Book Recommender System
 ![Demo](demo.gif)
-
+---
 ## 🚀 Overview
 
 This project builds an intelligent book recommendation system using modern Natural Language Processing (NLP) techniques. It allows users to search for books using natural language queries and receive recommendations based on semantic similarity, category filtering, and emotional tone.
 
 
-
+---
 ## 🔑 Key Features
 
 * **Semantic Search**: Retrieves books based on meaning (not keywords) using vector embeddings.
