@@ -29,7 +29,6 @@ This project builds an intelligent book recommendation system using modern Natur
     F --> G[Gradio UI Output]
 ```
 
----
 
 ## ⚙️ Tech Stack
 
@@ -92,15 +91,6 @@ project/
 - User inputs query + filters
 - Displays book recommendations with images
 
----
-
-## 📊 Example Use Cases
-
-- "A story about revenge" → Semantic search
-- "Happy books" → Emotion-based ranking
-- "Fiction + suspense" → Combined filtering
-
----
 
 ## 🧠 Key Concepts Used
 
@@ -129,32 +119,7 @@ python gradio-dashboard.py
 dashboard.launch()
 ```
 
----
-
-## ⚠️ Notes
-
-- First run may take time due to model downloads
-- Works fully locally (no API required)
-- CPU-based execution (GPU optional)
-
----
-
-## 🔥 Future Improvements
-
-- Add user personalization
-- Deploy on cloud (HuggingFace Spaces / Streamlit Cloud)
-- Add hybrid recommendation (collaborative + semantic)
-- Improve UI/UX
-
----
-
-## 💡 Resume Summary
-
-Built a semantic book recommender using transformer embeddings, vector search, zero-shot classification, and emotion-based ranking with an interactive Gradio interface.
-
----
 
 ## 👨‍💻 Author
-
 Aman Shah
 
