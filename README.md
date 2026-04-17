@@ -30,7 +30,6 @@ This project builds an intelligent book recommendation system using modern Natur
 ## 🏗️ Architecture Diagram
 
 ```
-graph TD
     A[User Query + Filters] --> B[Embedding Model (HuggingFace)]
     B --> C[Vector Database (Chroma)]
     C --> D[Top-K Similar Books]
